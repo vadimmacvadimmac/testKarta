@@ -52,4 +52,4 @@
 - Color c = new Color(img.getRGB(x, y)); c.getRed(); c.getGreen(); c.getBlue(); c.equals(c1) - работа с цветом точки
 
 Описание решения:
-http://samocvet.info/?p=1021
+http://mir.arcpixel.ru/?p=839
